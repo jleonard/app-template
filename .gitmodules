@@ -1,0 +1,3 @@
+[submodule "tools/crawl"]
+	path = tools/crawl
+	url = https://github.com/jleonard/casper-crawl.git
