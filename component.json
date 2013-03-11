@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "./src/js/app.js",
+  "dependencies": {
+  	"bootstrap":"latest",
+  	"font-awesome":"latest",
+  	"hammer":"latest",
+    "jquery": "latest",
+    "json2": "latest",
+    "modernizr":"latest",
+    "moment":"latest"
+  },
+  "devDependencies":{
+  	"detective.js":"latest"
+  }
+}
