@@ -8,7 +8,6 @@ The tools provided are a combination of [phantomjs](http://phantomjs.org/) and [
 ## YSlow (for PhantomJS) ##
 http://yslow.org/phantomjs/
 
-``bash
 Usage: phantomjs [phantomjs options] yslow.js [yslow options] [url ...]
 
   PhantomJS Options:
@@ -42,4 +41,3 @@ Usage: phantomjs [phantomjs options] yslow.js [yslow options] [url ...]
     phantomjs --load-plugins=yes yslow.js -vp 800x600 http://www.yahoo.com
     phantomjs yslow.js -i grade -f tap -t 85 http://yslow.org
 
- ``
