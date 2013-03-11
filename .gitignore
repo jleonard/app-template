@@ -2,10 +2,10 @@
 ###################
 components/
 node/modules/
+build/*
 
 # Packages #
 ############
-
 
 # Logs and databases #
 ######################
